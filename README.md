@@ -11,37 +11,38 @@ This is a Spotify clone project that aims to replicate some of the core features
 
 # Home
 * Before Login
-<img width="937" alt="logged out home view" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/2a6dc30c-1ae8-490d-b38b-66e5b0f76e67">
+<img width="937" alt="logged out home view" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/21a6685f-23aa-48ee-bb0b-d8edc6a539df">
 
 * After Login
-<img width="945" alt="logged in home view" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/161393a7-364a-4ec0-9c7b-f6df76d363cb">
+<img width="945" alt="logged in home view" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/9b470fff-42fc-4108-b741-91edfcc38d3d">
 
 # Usage
 1. User Authentication:
    * Register or log in to your account.
    * Use your credentials to access the app.
    
-   <img width="931" alt="login" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/6e8a1455-502f-449f-acf9-3500039a2841">
-   <img width="939" alt="signup zoomed" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/711f7777-7898-4655-ac85-8308325aa7ec">
+   <img width="931" alt="login" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/c789dadd-0080-461e-971c-38755b6ba404">
+
+   <img width="939" alt="signup zoomed" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/644661c2-fde2-4ff5-a8b9-a207cd9b0afe">
 
 2. Browsing and Searching:
    * Use the search bar to find songs.
    
-   <img width="955" alt="search" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/b0e50044-fd17-43e1-844d-c9672098ee3a">
+   <img width="955" alt="search" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/5a0b9a44-0de8-48ac-84b8-323b68cf5696">
 
 3. Creating Playlists:
    * Create and name a new playlist.
    
-   <img width="944" alt="create playlist" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/349bdd3d-6f19-47b5-847a-d304fccd4b4c">
-   <img width="960" alt="library" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/f45366a7-92e6-4c21-93a2-a34eaeb4b8da">
+   <img width="944" alt="create playlist" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/fece3a0a-513b-490d-842e-f455d36cb5f2">
+
+   <img width="960" alt="library" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/c7892f0a-2eb2-4859-90ba-48c6042154b6">
 
 4. Streaming Music:
    * Click on a song to start streaming.
    
-   <img width="946" alt="streaming music" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/fee35206-38f7-499f-a9fe-9317586ad5b9">
+   <img width="946" alt="streaming music" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/c5615f3c-dd57-423d-965b-c90f8d049c67">
 
 5. Upload Songs:
    * Upload your own music.
    
-   <img width="957" alt="upload song" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/fae3ac77-d54c-4f61-b915-e34d29d92241">
-
+   <img width="957" alt="upload song" src="https://github.com/manasgupta2310/Spotify-Clone/assets/105921324/e862f027-884f-4cef-87e4-55951d8b63ce">
